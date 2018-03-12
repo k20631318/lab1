@@ -1,0 +1,22 @@
+命令稿啟動於 2018年03月12日 下午 05:38:54
+]0;~
+[32mjkl20@LAPTOP-DJGA8KLT [33m~[0m
+$ whoami; pwd
+jkl20
+/home/jkl20
+]0;~
+[32mjkl20@LAPTOP-DJGA8KLT [33m~[0m
+$ git cn[Konfig - [Kl
+user.name=k20631318
+user.email=jkl20631318@gmail.com
+]0;~
+[32mjkl20@LAPTOP-DJGA8KLT [33m~[0m
+$ git clone https://github.com/k20631318/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;~
+[32mjkl20@LAPTOP-DJGA8KLT [33m~[0m
+$ exit
+
+命令稿已於 2018年03月12日 下午 05:40:00
+ 完成
